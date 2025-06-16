@@ -47,14 +47,14 @@ Gained foundational exposure to theoretical CS and research practices
 
 | Languages & Frameworks | Research & Tools       | Interests                         |
 |------------------------|------------------------|------------------------------------|
-| Python, JavaScript, React, Next.js | AI/ML, API integration, Digital Imaging | Distributed Systems, Digital Health |
+| Python, JavaScript, React, C++, Java, Node.js | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook | Distributed Systems, Machine Learning |
 
 ---
 
 ## 🛠 Projects & Hackathons
 
 - **Terminal-Based Uno Game in C++**  
-  Designed the game to follow the official rules of Uno, including turn logic, card effects (Skip, Reverse, Draw Two, Wild, etc.), and win conditions. :contentReference[oaicite:4]{index=4}
+  Designed the game to follow the official rules of Uno, including turn logic, card effects (Skip, Reverse, Draw Two, Wild, etc.), and win conditions.
 
 - **C Plus Ultra – BisonBytes**  
   Our team successfully built a functional prototype of an AI chatbot that asked and answered computer-related questions, demonstrating innovation, teamwork, and technical proficiency.
