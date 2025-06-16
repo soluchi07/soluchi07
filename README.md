@@ -1,4 +1,4 @@
-# Hi There🙋‍♀️ I'm Soluchi Fidel-Ibeabuchi
+# Hi There! I'm Soluchi Fidel-Ibeabuchi
 
 **Aspiring Software Engineer** | **Computer Science Undergraduate**  
 👩‍🎓 Howard University (Presidential Scholar)  
