@@ -64,7 +64,7 @@ Gained foundational exposure to theoretical CS and research practices
 ## 🤝 Connect With Me
 
 - **LinkedIn**: [Soluchi Fidel-Ibeabuchi](https://www.linkedin.com/in/soluchi-fidel-ibeabuchi-71977624a/)
-- **Email**: fidelibeabuchi.soluchi@gmail.com  
+- **Email**: soluchi.fidelibeab@bison.howard.edu 
 - **Contact**: Open to discussing research, open-source collaboration, and tech opportunities!
 
 ---
