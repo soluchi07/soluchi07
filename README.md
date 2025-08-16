@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **Computer Science** student and researcher with a passion for digital cell imaging, distributed systems, machine learning and innovative tech solutions. With academic roots from both Nigeria, the U.K. and the U.S., I’ve embraced global perspectives in research and software development.
+I’m a **Computer Science** student and researcher with a passion for distributed systems, machine learning and innovative tech solutions. With academic roots from both Nigeria, the U.K. and the U.S., I’ve embraced global perspectives in research and software development.
 
 ---
 
@@ -47,7 +47,7 @@ Gained foundational exposure to theoretical CS and research practices
 
 | Languages & Frameworks | Research & Tools       | Interests                         |
 |------------------------|------------------------|------------------------------------|
-| Python, JavaScript, React, C++, Java, Node.js | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook | Distributed Systems, Machine Learning |
+| Python, JavaScript, React, C++, Java, Node.js, PostGRES | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook, Netlify | Distributed Systems, Machine Learning |
 
 ---
 
@@ -59,6 +59,12 @@ Gained foundational exposure to theoretical CS and research practices
 - **C Plus Ultra – BisonBytes**  
   Our team successfully built a functional prototype of an AI chatbot that asked and answered computer-related questions, demonstrating innovation, teamwork, and technical proficiency.
 
+- **Discord Quotes Bot (Python, Discord.py, Discloud)**
+  Developed a Discord bot deployed on Discloud that delivers random quotes, responds contextually to keywords, and tracks message edits. Implemented asynchronous programming, object-oriented design, and environment variable management for secure, scalable performance.
+
+- **Debrief WebApp (Python, Flask, JavaScript)**
+  Built a web application to streamline project debriefs and team communication. Features include dynamic forms, data storage with JSON/SQL, and interactive dashboards to visualize project progress and feedback.
+  
 ---
 
 ## 🤝 Connect With Me
