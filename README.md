@@ -47,7 +47,7 @@ Gained foundational exposure to theoretical CS and research practices
 
 | Languages & Frameworks | Research & Tools       | Interests                         |
 |------------------------|------------------------|------------------------------------|
-| Python, JavaScript, React, C++, Java, Node.js, PostGRES | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook, Netlify | Distributed Systems, Machine Learning |
+| Python, JavaScript, React, C++, Java, Node.js, PostgreSQL | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook, Netlify | Distributed Systems, Machine Learning |
 
 ---
 
