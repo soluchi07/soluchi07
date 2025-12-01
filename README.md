@@ -19,11 +19,7 @@ Presidential Scholar | Active participant in hackathons & research projects
 
 ---
 
-## Skills & Technologies
-
-| Languages & Frameworks | Research & Tools       | Interests                         |
-|------------------------|------------------------|------------------------------------|
-| Python, JavaScript, React, C++, Java, Node.js, PostgreSQL | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook, Netlify | Distributed Systems, Machine Learning |
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
   
@@ -44,7 +40,7 @@ Presidential Scholar | Active participant in hackathons & research projects
 
 If you're interested in working together—whether it's software development, distributed systems, AI/ML or even cartoons just drop me a line!
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soluchi)
-- **Email**: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soluchi.fidelibeab@bison.howard.edu@gmail.com)
+- **LinkedIn**: linkedin.com/in/soluchi [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soluchi)
+- **Email**: soluchi.fidelibeab@bison.howard.edu [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soluchi.fidelibeab@bison.howard.edu@gmail.com)
 
 
