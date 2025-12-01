@@ -1,87 +1,50 @@
 # Hi There! I'm Soluchi Fidel-Ibeabuchi
 
 **Aspiring Software Engineer** | **Computer Science Undergraduate**  
-👩‍🎓 Howard University (Presidential Scholar)  
-🎓 Former student at University of Warwick  
-📍 Washington, D.C. / Lagos, Nigeria
+Howard University (Presidential Scholar)  
+Washington, D.C. / Lagos, Nigeria
 
 ---
 
-## 🚀 About Me
-I’m a **Computer Science** student and researcher with a passion for distributed systems, machine learning and innovative tech solutions. With academic roots from both Nigeria, the U.K. and the U.S., I’ve embraced global perspectives in research and software development.
+## About Me
+I'm a junior **Computer Science** major at Howard University, originally from Nigeria, with a passion for building things that work. I'm currently developing a mobile app using React Native and actively seeking summer internships to gain hands-on experience in software development.<br>I love diving into new concepts and applying them to real projects like the full-stack web app I built using React, Netlify, and Supabase (ask me about it!). Whether it's front-end, back-end, or mobile development, I'm always eager to expand my skill set and tackle new challenges.<br>When I'm not coding, you'll find me playing FPS games or binge-watching animated shows.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Howard University (3.71 GPA)**  
 *Bachelor of Science in Computer Science (August 2024 - Present)*  
 Presidential Scholar | Active participant in hackathons & research projects
 
-**University of Warwick (August 2023 - April 2024)**  
-Gained foundational exposure to theoretical CS and research practices
-
 ---
 
-## 💼 Experience
-
-- **Digital Cell Imaging Researcher**  
-  *University of Florida*  
-  Applying computational and imaging techniques to biomedical data—bridging CS and research.
-
-- **Hackathon Enthusiast**  
-  - **BisonBytes 2025 – 24‑Hour Hackathon (Howard University)**  
-    Collaborated on tech solutions using React, AI/ML, APIs  
-    > “Collaboration under pressure taught me the power of teamwork, innovation, and technology.”
-
----
-
-## 🏅 Highlights & Achievements
-
-- **Near-perfect SAT score** – 1570/1600 (800 Math, >99th percentile)
-- **Presidential Scholar @ Howard University**
-- **BisonBytes Hackathon 2025** – Valuable teamwork experience and solutions in the ML domain
----
-
-## 🌱 Skills & Technologies
+## Skills & Technologies
 
 | Languages & Frameworks | Research & Tools       | Interests                         |
 |------------------------|------------------------|------------------------------------|
 | Python, JavaScript, React, C++, Java, Node.js, PostgreSQL | API integration, Digital Imaging, Linux, LaTex, Jupyter Notebook, Netlify | Distributed Systems, Machine Learning |
 
----
-
-## 🛠 Projects & Hackathons
-
-- **Terminal-Based Uno Game in C++**  
-  Designed the game to follow the official rules of Uno, including turn logic, card effects (Skip, Reverse, Draw Two, Wild, etc.), and win conditions.
-
-- **C Plus Ultra – BisonBytes**  
-  Our team successfully built a functional prototype of an AI chatbot that asked and answered computer-related questions, demonstrating innovation, teamwork, and technical proficiency.
-
-- **Discord Quotes Bot (Python, Discord.py, Discloud)**
-  Developed a Discord bot deployed on Discloud that delivers random quotes, responds contextually to keywords, and tracks message edits. Implemented asynchronous programming, object-oriented design, and environment variable management for secure, scalable performance.
-
-- **Debrief WebApp (Python, Flask, JavaScript)**
-  Built a web application to streamline project debriefs and team communication. Features include dynamic forms, data storage with JSON/SQL, and interactive dashboards to visualize project progress and feedback.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
   
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soluchi07)](https://github.com/anuraghazra/github-readme-stats)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=soluchi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soluchi07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soluchi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🤝 Connect With Me
-
-- **LinkedIn**: [Soluchi Fidel-Ibeabuchi](https://www.linkedin.com/in/soluchi-fidel-ibeabuchi-71977624a/)
-- **Email**: soluchi.fidelibeab@bison.howard.edu 
-- **Contact**: Open to discussing research, open-source collaboration, and tech opportunities!
-
----
-
-## 📫 How to Reach Me
-
-If you're interested in working together—whether it's distributed systems, AI/ML, imaging or even cartoons—just drop me a line!
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=soluchi07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=soluchi07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Passionate about harnessing the power of computing and imaging to impact real-world solutions.*  
+## Connect With Me
+
+If you're interested in working together—whether it's software development, distributed systems, AI/ML or even cartoons just drop me a line!
+
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soluchi)
+- **Email**: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soluchi.fidelibeab@bison.howard.edu@gmail.com)
+
 
