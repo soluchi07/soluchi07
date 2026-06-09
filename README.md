@@ -26,6 +26,12 @@ I'm a junior **Computer Science** major at Howard University, originally from Ni
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soluchi07&theme=nord&hide_border=true" alt="GitHub Streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## Connect With Me
 
 If you're interested in working together—whether it's software development, distributed systems, AI/ML or even cartoons just drop me a line!
