@@ -1,3 +1,5 @@
+
+<!-- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> -->
 # Hi There! I'm Soluchi Fidel-Ibeabuchi
 
 **Aspiring Data Scientist** | **Computer Science Undergraduate**  
@@ -23,8 +25,14 @@ I'm a junior **Computer Science** major at Howard University, originally from Ni
 
 ## Tech Stack
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50em" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50em"/>
 
+---
+
+          
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soluchi07&theme=nord&hide_border=true" alt="GitHub Streak" />
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soluchi07/soluchi07/output/github-snake-dark.svg">
@@ -40,5 +48,12 @@ If you're interested in working together—whether it's software development, di
 - **Email**: soluchi.fidelibeab@bison.howard.edu [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soluchi.fidelibeab@bison.howard.edu@gmail.com)
 
 You can also check out my portfolio at [soluchi.dev](https://www.soluchi.dev)
+
+<!-- <style>
+  img {
+    width: 20px;
+    height: auto;
+  }
+</style> -->
 
 
