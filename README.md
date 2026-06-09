@@ -32,6 +32,12 @@ I'm a junior **Computer Science** major at Howard University, originally from Ni
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soluchi07/soluchi07/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soluchi07/soluchi07/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soluchi07/soluchi07/output/github-snake.svg">
+</picture>
+
 ## Connect With Me
 
 If you're interested in working together—whether it's software development, distributed systems, AI/ML or even cartoons just drop me a line!
