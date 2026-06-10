@@ -7,7 +7,7 @@ Howard University (Presidential Scholar)
 Washington, D.C. / Lagos, Nigeria
 
 ## About Me
-I'm a junior **Computer Science** major at Howard University, originally from Nigeria, with a passion for investigating trends and building predictive models. I'm currently doing neuroscience research in partnership with the Howard University biology department and looking towards grad school for data science and computational sciences and engineering to gain even more understanding of machine learning systems.<br><br>I love diving into new concepts and applying them to real projects like the anime reccomendation engine I develped using AWS infrastructure with Terraform and React for the frontend (ask me about it!). Whether it's research, business analytics, or data engineering, I'm always eager to expand my skill set and tackle new challenges.
+I'm a senior **Computer Science** major at Howard University, originally from Nigeria, with a passion for investigating trends and building predictive models. I'm currently doing neuroscience research in partnership with the Howard University biology department and looking towards grad school for data science and computational sciences and engineering to gain even more understanding of machine learning systems.<br><br>I love diving into new concepts and applying them to real projects like the anime reccomendation engine I develped using AWS infrastructure with Terraform and React for the frontend (ask me about it!). Whether it's research, business analytics, or data engineering, I'm always eager to expand my skill set and tackle new challenges.
 
 ## Education
 
