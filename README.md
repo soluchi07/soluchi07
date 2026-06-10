@@ -27,10 +27,10 @@ I'm a junior **Computer Science** major at Howard University, originally from Ni
 
 ## Connect With Me
 
-If you're interested in working together—whether it's software development, distributed systems, AI/ML or even cartoons just drop me a line!
+If you're interested in reaching out—whether it's about AI/ML or even cartoons-just drop me a line!
 
-- **LinkedIn**: linkedin.com/in/soluchi [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soluchi)
-- **Email**: soluchi.fidelibeab@bison.howard.edu [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soluchi.fidelibeab@bison.howard.edu@gmail.com)
+- **LinkedIn**: linkedin.com/in/soluchi [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soluchi)
+- **Email**: fidelibeabuchi.soluchi@gmail.com [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fidelibeabuchi.soluchi@gmail.com)
 
 You can also check out my portfolio at [soluchi.dev](https://www.soluchi.dev)
 
