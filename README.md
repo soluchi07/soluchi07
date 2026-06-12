@@ -25,6 +25,8 @@ I'm a senior **Computer Science** major at Howard University, originally from Ni
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soluchi07&theme=nord&hide_border=true" alt="GitHub Streak" />
 
+![Soluchi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soluchi07&theme=nord)
+
 ## Connect With Me
 
 If you're interested in reaching out—whether it's about AI/ML or even cartoons-just drop me a line!
