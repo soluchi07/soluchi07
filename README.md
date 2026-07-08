@@ -14,8 +14,8 @@ I'm a senior **Computer Science** major at Howard University, originally from Ni
 **Howard University (3.7 GPA)**  
 *Bachelor of Science in Computer Science (August 2024 - Present)*  
 - [x] Presidential Scholar
-- [x] 1st Runner Up @ Bank of America
-- [x] Code-A-Thon & 1st place @ Microsoft Policython
+- [x] 1st Runner Up @ Bank of America Code-A-Thon
+- [x] 1st place @ Microsoft Policython
 
 ## Tech Stack
 
